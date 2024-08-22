@@ -1,7 +1,7 @@
 Instalasi
 
 1. Clone Repositori:
-git clone https://github.com/your-repo/admin-panel.git
+git clone https://github.com/ridwanherdiansah/folkatech.git
 cd admin-panel
 
 2. Instal Dependensi
